@@ -16,7 +16,7 @@ body {
   max-width: 780px;
   margin: 0 auto !important;
   min-height: 70vh;
-  font-size: 1rem;
+  font-size: 0.8rem;
 	font-family: 'Hahmlet', serif;
 	font-weight: normal;
   overflow: hidden;
@@ -66,5 +66,5 @@ h1 {
   display: block;
 	height: auto;
 	margin: 0 auto;
-	width: 60%;
+	width: 100%;
  }
